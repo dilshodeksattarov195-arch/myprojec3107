@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routersalculate",
+        "uuid": 9128366,
+        "checksum": "cj6ni"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
